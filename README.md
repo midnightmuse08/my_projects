@@ -1,2 +1,3 @@
 # my_projects
-1.In this project , a content based recommendation system was developed for sweet products( shirinliklar) using Natural Language Processing (NLP) and Word2Vec.
+
+In this repository I'll save my projects i was working on during my education period
